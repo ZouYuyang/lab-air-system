@@ -1,0 +1,17 @@
+These are the parts you need for this project
+
+Arduino Nano board *1
+Wires *(lots of)
+Red Boat-like Switch(eg. KCD1-101) *1
+USB2TTL Board (Optional for debug)
+704 Silicone rubber (Optional)
+Fan(if not 5V, You may need a relay) *2
+MQ-Series Sensors:[MQ-2 MQ-3 MQ-4 MQ-7 MQ-135] *1 (each)
+SHARP GP2Y1010AU0F Sensor(Dust) *1
+LED (Red&Green 2in1) *1
+74HC04 IC(With the IC Socket) *2
+Resistors in common use(Mainly for the leds)
+
+Enjoy making it:)
+1st edited on Mar. 5th
+translate on Mar. 10th
